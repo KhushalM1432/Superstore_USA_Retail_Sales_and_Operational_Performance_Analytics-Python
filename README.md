@@ -1,48 +1,95 @@
-## Superstore USA Sales Performance and Profitability Data Science Project
+## Superstore USA Retail Sales & Operational Performance Analysis
 
 ## Data_Science
 
+### **Python | Data Cleaning | EDA | Statistical Analysis | Retail Analytics | Business Insights**
+
 ### Project Overview
 
-Developed a **Superstore USA Retail Data Analysis project** using a multi-sheet Excel dataset containing Orders, Returns, and Users. The project focuses on data cleaning, preprocessing, exploratory data analysis (EDA), and statistical visualization to investigate retail operations, sales performance, customer purchasing patterns, and product-level trends.
+Analyzed Superstore USA retail data to examine sales performance, customer purchasing patterns, product-level trends, and operational activities.
 
-The objective is to transform raw retail data into structured, analysis-ready datasets and meaningful business insights that can support sales strategy, operational efficiency, and data-driven decision-making.
+The project uses a multi-sheet Excel dataset containing **Orders, Returns, and Users**, applying data preprocessing, Exploratory Data Analysis (EDA), and visualization to prepare reliable analytical datasets and support retail business decision-making.
+
+## Business Problem
+
+Retail organizations need reliable information about sales transactions, product demand, customer activity, and order returns to evaluate performance and improve operational planning.
+
+This project addresses the challenge of preparing and analyzing data from multiple business sources to develop a clearer understanding of retail operations.
+
+## Project Objectives
+
+- Prepare and validate multi-sheet retail datasets.
+- Analyze sales transactions and customer purchasing patterns.
+- Examine product category performance.
+- Investigate product returns and operational trends.
+- Generate structured analytical reports.
+- Support data-driven retail business decisions.
 
 ## Project Highlights
 
-1. **Multi-Source Data Integration:** Analyzed three interconnected Excel worksheets—Orders, Returns, and Users—to establish a comprehensive view of retail transactions, customer information, and product return activities.
+1. **Multi-Sheet Data Analysis:** Worked with Orders, Returns, and Users datasets to examine retail transactions and operational information.
 
-2. **Data Cleaning & Preprocessing:** Identified and handled missing values, duplicate records, inconsistent formats, and data quality issues to improve dataset accuracy, consistency, and analytical reliability.
+2. **Data Cleaning & Preprocessing:** Handled missing values, inconsistent formats, duplicate records, and data quality issues to prepare datasets for analysis.
 
-3. **Exploratory Data Analysis (EDA):** Investigated retail transaction patterns, sales distributions, customer purchasing behavior, and product category performance to identify meaningful trends and business opportunities.
+3. **Exploratory Data Analysis (EDA):** Explored transaction patterns, sales distributions, customer characteristics, and product-level performance.
 
-4. **Sales Performance Analysis:** Explored order-level transactions, sales patterns, and product contributions to understand retail performance and identify potential revenue growth opportunities.
+4. **Sales Performance Analysis:** Investigated order activity and sales trends to understand business performance.
 
-5. **Customer & Product Analytics:** Examined customer information and product-level transaction patterns to better understand purchasing behavior, category demand, and sales distribution.
+5. **Customer & Product Analysis:** Examined purchasing patterns and product category distributions to identify commercially relevant trends.
 
-6. **Product Returns & Operational Analysis:** Utilized return records to investigate returned orders and identify patterns relevant to product performance, customer experience, and retail operational efficiency.
+6. **Returns Analysis:** Explored return records to understand patterns that may influence customer experience and retail operations.
 
-7. **Statistical Analysis & Data Visualization:** Applied descriptive statistical techniques and exploratory visualizations to communicate retail sales patterns, transaction distributions, and operational trends.
+7. **Statistical Analysis & Visualization:** Used exploratory statistics and analytical visualizations to summarize retail performance and operational trends.
 
-8. **Structured Data Management:** Organized cleaned datasets and EDA outputs into dedicated project folders, supporting reproducibility, easier navigation, and efficient analytical workflows.
+8. **Data Preparation & Reporting:** Generated three cleaned CSV datasets and three HTML reports corresponding to the source worksheets.
 
-9. **Business Insights & Decision Support:** Used exploratory findings to identify potential areas for improving sales strategies, product planning, customer engagement, and retail operations.
+9. **Business Insights:** Interpreted exploratory findings to identify potential opportunities for improving product planning, customer understanding, and operational decision-making.
+
+## KPI & Performance Analysis
+
+Relevant retail performance indicators include:
+
+- Total Sales Revenue
+- Order Volume
+- Average Order Value
+- Product Category Sales
+- Customer Purchasing Activity
+- Returned Order Count
+- Return Rate
+
+These are potential business metrics; their actual calculation depends on the available data and notebook implementation.
 
 ## Technologies & Skills
 
-- **Data Source:** Microsoft Excel (Orders, Returns, Users)
-- **Core Data Science Skills:** Data Cleaning, Data Preprocessing, Exploratory Data Analysis (EDA), Descriptive Statistics, Data Visualization
-- **Business Analysis:** Retail Sales Analytics, Customer Behavior Analysis, Product Performance Analysis, Returns Analysis, Operational Analytics
-- **Data Management:** Multi-Sheet Data Integration, Data Quality Validation, Structured Dataset Organization
+**Programming:** Python
 
-## Business Objective
+**Data Source:** Microsoft Excel
 
-To analyze Superstore USA retail operations by integrating order transactions, customer records, and product returns, enabling a better understanding of sales performance, customer purchasing behavior, and operational patterns.
+**Analytical Techniques:** Data Cleaning, Data Preprocessing, Exploratory Data Analysis, Descriptive Statistics, Data Visualization
 
-The analysis aims to support business stakeholders in identifying potential revenue opportunities, evaluating product demand, monitoring return patterns, and improving retail decision-making.
+**Business Domain:** Retail Sales Analysis, Customer Analytics, Product Performance, Returns Analysis, Operational Analytics
 
-## Business Value
+## Project Deliverables
 
-This project demonstrates the application of **Data Science methodologies to practical retail business challenges**, including transactional data preparation, exploratory analysis, customer behavior assessment, and operational performance evaluation.
+- `Superstore USA Analysis Project.ipynb` — Analysis notebook
+- `Superstore_USA.xlsx` — Original multi-sheet dataset
+- `Superstore USA Dataset Clean a.csv` — Cleaned dataset
+- `Superstore USA Dataset Clean b.csv` — Cleaned dataset
+- `Superstore USA Dataset Clean c.csv` — Cleaned dataset
+- Three HTML reports containing analytical outputs
 
-By transforming raw multi-sheet Excel data into structured datasets and interpretable analytical outputs, the project establishes a foundation for data-driven sales planning, customer analysis, and future predictive modeling.
+## Business Applications
+
+This analysis provides a foundation for:
+
+- Monitoring retail sales performance.
+- Understanding product and customer trends.
+- Investigating product returns.
+- Improving data quality for operational reporting.
+- Supporting retail planning and business decisions.
+
+## Conclusion
+
+This project demonstrates practical data preparation, exploratory analysis, and reporting skills applied to retail operations.
+
+By transforming a multi-sheet business dataset into cleaned, structured analytical outputs, the project supports reliable data exploration and provides a foundation for further sales, customer, and operational analysis.
